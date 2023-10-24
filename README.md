@@ -18,10 +18,13 @@ Supprimer une machine: Vous pouvez effacer une machine déjà présente en utili
 
 ## Screenshots
 
-<img width="804" alt="sakhr" src="https://github.com/bananaacaat/tp-JSP/assets/147453939/136a93ef-e370-4dac-8770-08afc332f598">
+### Interface graphique :
 
+<img width="534" alt="sakhr" src="https://github.com/bananaacaat/tp-JSP/assets/147453939/2487e09b-b0cf-4220-b6c8-a3928fba7f33">
 
-<img width="730" alt="sakhr2" src="https://github.com/bananaacaat/tp-JSP/assets/147453939/8b69eab8-4d2d-4a97-80bd-b4aef9e6cd1d">
+### La base de donnée :
+
+<img width="463" alt="sakhr2" src="https://github.com/bananaacaat/tp-JSP/assets/147453939/db3a5b5b-9bad-4143-9e5a-248d457984fa">
 
 
 ## Technologies utilisés 
